@@ -19,3 +19,5 @@ flowchart TD
     OrderProcessor --> DB[(Banco de Dados Pedidos)]
 
     OrderProcessor --> Payment[Gateway de Pagamento]
+    
+![alt text](image.png)
